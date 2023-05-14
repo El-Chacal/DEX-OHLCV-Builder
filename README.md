@@ -1,5 +1,5 @@
 # DEX-OHLCV-Builder
-A simple bot that compiles data from the Ethereum or BSC blockchain into OHLCV data. Still in the early phase, so improvements are welcome.
+A simple bot in C# that compiles data from the Ethereum or BSC blockchain into OHLCV data. Still in the early phase, so improvements are welcome.
 
 This bot was tested exclusively on the BSC Network but should work just fine on Ethereum.
 
